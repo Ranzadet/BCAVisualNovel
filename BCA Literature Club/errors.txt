@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 222: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+        show julian1 "So this is our team. Because you're new, you're gonna need some practice games before the big tournament.
+
+Ren'Py Version: Ren'Py 7.4.11.2266
+Sat Apr  2 15:50:50 2022
